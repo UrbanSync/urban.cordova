@@ -1,0 +1,4 @@
+[submodule "core"]
+	path = www/urban.core
+	url = https://github.com/UrbanSync/urban.core
+	branch = master
